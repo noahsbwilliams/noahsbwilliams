@@ -15,6 +15,7 @@
   - Pretty much everything
 - Docker
   - Pretty much everything
+- VS Code / [`code-server`](https://github.com/cdr/code-server)
 
 ## Languages & Libraries
 
