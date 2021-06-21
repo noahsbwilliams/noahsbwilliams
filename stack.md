@@ -31,5 +31,7 @@ VS Code / [`code-server`](https://github.com/cdr/code-server)
 
 - [Chisel](https://github.com/jpillora/chisel)
   - Used for firewall busting as needed
-- Nextcloud
-- Gitea
+- [Nextcloud](https://github.com/nextcloud)
+  - "Most of Google Workspace, but on prem"
+- [Gitea](https://github.com/go-gitea)
+  - "Most of GitHub, but on prem, and without the network effect"
