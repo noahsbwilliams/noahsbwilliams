@@ -15,8 +15,12 @@
   - Pretty much everything
 - Docker
   - Pretty much everything
-- VS Code / [`code-server`](https://github.com/cdr/code-server)
 
+## IDE
+
+VS Code / [`code-server`](https://github.com/cdr/code-server)
+
+> "There's an extension for that"
 ## Languages & Libraries
 
 - Ruby on Rails
