@@ -11,6 +11,10 @@
   - [raspi-k8s](https://github.com/noahsbwilliams/raspi-k8s)
 - Kubernetes
   - [raspi-k8s](https://github.com/noahsbwilliams/raspi-k8s)
+- Nginx
+  - Pretty much everything
+- Docker
+  - Pretty much everything
 
 ## Languages & Libraries
 
