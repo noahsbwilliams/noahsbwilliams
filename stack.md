@@ -29,5 +29,7 @@ VS Code / [`code-server`](https://github.com/cdr/code-server)
 
 ## Self-hosted Apps
 
+- [Chisel](https://github.com/jpillora/chisel)
+  - Used for firewall busting as needed
 - Nextcloud
 - Gitea
