@@ -12,8 +12,13 @@
 - Kubernetes
   - [raspi-k8s](https://github.com/noahsbwilliams/raspi-k8s)
 
+## Languages & Libraries
+
+- Ruby on Rails
+  - OptOut News backend
+- Node.js
+
 ## Self-hosted Apps
 
 - Nextcloud
 - Gitea
-- 
