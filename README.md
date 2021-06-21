@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning CDN optimization & Pulumi Infra-As-Code
 - 👯 I’m looking to collaborate on self-hosted optimized stuff 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Kubernetes ☸️ or aviation 🛫🌥🛬
