@@ -35,3 +35,11 @@ VS Code / [`code-server`](https://github.com/cdr/code-server)
   - "Most of Google Workspace, but on prem"
 - [Gitea](https://github.com/go-gitea)
   - "Most of GitHub, but on prem, and without the network effect"
+
+## Cloud Platforms
+
+- DigitalOcean
+- Heroku
+- AWS
+- Azure
+- On-prem K8s
