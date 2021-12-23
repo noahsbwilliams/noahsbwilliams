@@ -1,4 +1,4 @@
-![Coding in woods header image](cover.jpg)
+![Coding in woods header image](cover.jpeg)
 ### Hi there 👋
 
 - 🔭 I’m currently working on [@optoutnews](https://github.com/optoutnews)
