@@ -4,8 +4,8 @@
 > ***Noah here, with you @ sea level, climbing 2500*** ✈️
 
 - 🏔 I’m currently working on [@optoutnews](https://github.com/optoutnews) 📰, probably from the Alaskan mountains
-- 🧑‍💻 I’m currently learning Go Learning [Go](https://go.dev) 💨
-- 💬 Ask me about Kubernetes ☸️ or commercial aviation 🛫🌥🛬
+- 🧑‍💻 I’m currently learning [Go](https://go.dev) 💨
+- 💬 Ask me about Kubernetes ☸️ or aviation 🛫🌥🛬
 - 📫 How to reach me: [📧 email ](public@noahsbwilliams.com) or [🔑 Keybase](https://keybase.io/noahsbwilliams)
 
 #### Some recent work includes...
