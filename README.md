@@ -1,7 +1,7 @@
 ![Coding in woods header image](cover.jpeg)
 ### Folks, g'day 👋
 
-> *Noah here, with you @ sea level, climbing 2500* ✈️
+> ***Noah here, with you @ sea level, climbing 2500*** ✈️
 
 - 🏔 I’m currently working on [@optoutnews](https://github.com/optoutnews) 📰, probably from the Alaskan mountains
 - 🧑‍💻 I’m currently learning Go Learning [Go](https://go.dev) 💨
