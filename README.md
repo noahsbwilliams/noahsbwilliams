@@ -7,8 +7,12 @@ Noah here, with you at sea level, climbing 2500 ✈️
 - 🌱 I’m currently learning Go 
 - 💬 Ask me about Kubernetes ☸️ or commercial aviation 🛫🌥🛬
 - 📫 How to reach me: [📧 email ](public@noahsbwilliams.com) or [🔑 Keybase](https://keybase.io/noahsbwilliams)
-- 😄 Pronouns: `they/them`
-<!-- - 👯 I’m looking to collaborate on self-hosted optimized stuff  -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - ⚡ Fun fact: ... -->
 
+#### Some recent work includes...
+
+- 🐳 Containerizing .NET, Node.js, Ruby workloads 
+- 🧑‍💻 Learning [Go](https://go.dev) 💨
+- ☸️ Deploying and managing Kubernetes clusters with all the trimmings (ingress-nginx, cert-manager, Prometheus, Velero)
+- ☁️ Constructing and versioning cloud environments with [Terraform](https://terraform.io) 
+- 🧑‍🍳 Configuration management with [Chef](https://chef.io) and [Ansible](https://www.ansible.com) on Linux and Windows VMs
+- 📱 iOS business automation with [Fastlane](https://fastlane.tools) & [GitHub Actions](https://github.com/features/actions)
