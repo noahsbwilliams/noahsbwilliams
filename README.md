@@ -1,17 +1,16 @@
 ![Coding in woods header image](cover.jpeg)
 ### Folks, g'day 👋
 
-Noah here, with you at sea level, climbing 2500 ✈️
+*Noah here, with you @ sea level, climbing 2500* ✈️
 
-- 🏔 I’m currently working on [@optoutnews](https://github.com/optoutnews) 📰, probably from the Alaskan mountains.
-- 🌱 I’m currently learning Go 
+- 🏔 I’m currently working on [@optoutnews](https://github.com/optoutnews) 📰, probably from the Alaskan mountains
+- 🧑‍💻 I’m currently learning Go Learning [Go](https://go.dev) 💨
 - 💬 Ask me about Kubernetes ☸️ or commercial aviation 🛫🌥🛬
 - 📫 How to reach me: [📧 email ](public@noahsbwilliams.com) or [🔑 Keybase](https://keybase.io/noahsbwilliams)
 
 #### Some recent work includes...
 
-- 🐳 Containerizing .NET, Node.js, Ruby workloads 
-- 🧑‍💻 Learning [Go](https://go.dev) 💨
+- 🐳 Containerizing .NET, Node.js, Ruby workloads
 - ☸️ Deploying and managing Kubernetes clusters with all the trimmings (ingress-nginx, cert-manager, Prometheus, Velero)
 - ☁️ Constructing and versioning cloud environments with [Terraform](https://terraform.io) 
 - 🧑‍🍳 Configuration management with [Chef](https://chef.io) and [Ansible](https://www.ansible.com) on Linux and Windows VMs
