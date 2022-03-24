@@ -13,7 +13,7 @@ I'm a **DevOps Engineer** in **Juneau**, **Alaska** 🏔 *(GMT-**09:00**)*
 #### Some recent work includes...
 
 - 🐳 Containerizing .NET, Node.js, Ruby workloads
-- ☸️ Deploying and managing Kubernetes clusters with all the trimmings (ingress-nginx, cert-manager, Prometheus, Velero)
+- ☸️ Deploying and managing Kubernetes clusters with all the trimmings (ingress-nginx, cert-manager, Kibana, Velero)
 - ☁️ Constructing and versioning cloud environments with [Terraform](https://terraform.io) 
 - 🧑‍🍳 Configuration management with [Chef](https://chef.io) and [Ansible](https://www.ansible.com) for Linux and Windows environments
 - 📱 iOS CI/CD with [Fastlane](https://fastlane.tools) & [GitHub Actions](https://github.com/features/actions)
