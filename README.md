@@ -7,7 +7,7 @@ I'm a **DevOps Engineer** in **Juneau**, **Alaska** 🏔 *(GMT-**09:00**)*
 
 - 🛠 I’m currently working on CloudOps at a major U.S. Airline ✈️
 - 🧑‍💻 I’m currently learning [Go](https://go.dev) 💨
-- 💬 Ask me about Kubernetes, AWS, ☸️ or aviation 🛫🌥🛬
+- 💬 Ask me about Kubernetes ☸️, AWS,  or aviation 🛫🌥🛬
 - 📫 How to reach me: [📧 email ](public@noahsbwilliams.com) or [🔑 Keybase](https://keybase.io/noahsbwilliams)
 
 #### Some recent work includes...
