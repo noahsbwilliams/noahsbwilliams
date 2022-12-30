@@ -3,7 +3,7 @@
 
 > ***Noah here, with you @ sea level, climbing 2500*** ✈️
 
-I'm a **DevOps Engineer** in **Juneau**, **Alaska** 🏔 *(GMT-**09:00**)*
+I'm a **Cloud Engineer** in **Juneau**, **Alaska** 🏔 *(GMT-**09:00**)*
 
 - 🛠 I’m currently working on CloudOps at a major U.S. Airline ✈️
 - 🧑‍💻 I’m currently learning Jupyter 🐍
