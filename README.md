@@ -5,7 +5,7 @@
 
 I'm a **Cloud Engineer** in **Juneau**, **Alaska** 🏔 *(GMT-**09:00**)*
 
-- 🛠 I’m currently working on CloudOps at a major U.S. Airline ✈️
+- 🛠 I’m currently working on AWS CloudOps at a major U.S. Airline ✈️
 - 🧑‍💻 I’m currently learning visual math with [Jupyter](https://jupyter.org) 🐍
 - 💬 Ask me about Kubernetes ☸️, AWS,  or aviation 🛫🌥🛬
 - 📫 How to reach me: [📧 email ](public@noahsbwilliams.com) or [🔑 Keybase](https://keybase.io/noahsbwilliams)
