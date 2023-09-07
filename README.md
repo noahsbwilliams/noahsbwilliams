@@ -3,7 +3,7 @@
 
 > ***Noah here, with you @ sea level, climbing 2500*** ✈️
 
-I'm a **Cloud Engineer** 🏔
+I'm a highly-available **Cloud DevOps Engineer** with AZ's in JNU 🏔 and SEA 🐋
 
 - 👔 I currently work in AWS Consulting for a major U.S. Airline ✈️
 - 🧑‍💻 I’m currently learning visual math with [Jupyter](https://jupyter.org) 🐍
