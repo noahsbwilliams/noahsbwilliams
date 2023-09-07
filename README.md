@@ -3,7 +3,7 @@
 
 > ***Noah here, with you @ sea level, climbing 2500*** ✈️
 
-I'm a **Cloud Engineer** in **Juneau**, **Alaska** 🏔 *(GMT-**09:00**)*
+I'm a **Cloud Engineer** 🏔
 
 - 👔 I currently work in AWS Consulting for a major U.S. Airline ✈️
 - 🧑‍💻 I’m currently learning visual math with [Jupyter](https://jupyter.org) 🐍
@@ -12,6 +12,7 @@ I'm a **Cloud Engineer** in **Juneau**, **Alaska** 🏔 *(GMT-**09:00**)*
 
 #### Some recent work includes...
 
+- 🐍 Writing CloudFormation modules in Python using [Troposphere](https://troposphere.readthedocs.io/en/latest/)
 - 🐳 Building and refactoring slim platform images for Node, Python, Ruby, Java
 - ☸️ Deploying and managing Kubernetes clusters with all the trimmings (ingress-nginx, cert-manager, Kibana, Velero)
 - ☁️ Constructing and versioning cloud environments with [Terraform](https://terraform.io) 
