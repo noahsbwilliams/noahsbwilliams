@@ -5,7 +5,7 @@
 
 I'm a **Senior DevOps Engineer** based in SEA 🐋
 
-- 👔 I currently work in AWS Cloud Development for a major U.S. Airline ✈️
+- 👔 I currently work in AWS Cloud Engineering for a major U.S. Airline ✈️
 - 🧑‍💻 I’m currently learning visual math with [Jupyter](https://jupyter.org) 🐍
 - 💬 Ask me about Kubernetes ☸️, AWS,  or aviation 🛫🌥🛬
 - 📫 How to reach me: [📧 email ](public@noahsbwilliams.com) or [🔑 Keybase](https://keybase.io/noahsbwilliams)
