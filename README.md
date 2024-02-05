@@ -12,10 +12,9 @@ I'm a **Senior DevOps Engineer** based in SEA 🐋
 
 #### Some recent work includes...
 
-- 🔍 Implementing OpenTelemetry for distributed tracing
+- 🔍 Implementing [OpenTelemetry](https://opentelemetry.io) for distributed tracing
 - 🐍 Writing CloudFormation modules in Python using [Troposphere](https://troposphere.readthedocs.io/en/latest/)
 - 🐳 Building and refactoring slim platform images for Node, Python, Ruby, Java
 - ☸️ Deploying and managing Kubernetes clusters with all the trimmings (ingress-nginx, cert-manager, Kibana, Velero)
 - ☁️ Constructing and versioning cloud environments with [Terraform](https://terraform.io) 
-<!-- - 🧑‍🍳 Configuration management with [Chef](https://chef.io) and [Ansible](https://www.ansible.com) for Linux and Windows environments -->
-<!-- - 📱 iOS CI/CD with [Fastlane](https://fastlane.tools) & [GitHub Actions](https://github.com/features/actions) -->
+- 📱 iOS CI/CD with [Fastlane](https://fastlane.tools) & [GitHub Actions](https://github.com/features/actions)
