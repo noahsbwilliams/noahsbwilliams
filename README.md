@@ -6,7 +6,7 @@
 I'm an **Observability & DevOps Engineer** based in SEA 🐳
 
 - 👔 I currently work in Observability for a major U.S. Airline ✈️
-- 🧑‍💻 I’m currently learning Go writing custom observability tools
+- 🧑‍💻 I’m currently learning AI metal performance optimization 🤖
 - 💬 Ask me about Observability 🔍, Kubernetes ☸️, Transit 🚊🚃🚎🚌 or Aviation 🛫🌥🛬
 - 📫 How to reach me: [📧 email ](public@noahsbwilliams.com)
 
