@@ -3,7 +3,7 @@
 
 > ***Noah here, with you @ sea level, climbing 2500*** ✈️
 
-I'm an **Observability DevOps Engineer** based in SEA 🐳
+I'm an **Observability DevOps Engineer** based in SEA 🐳🏔️
 
 - 👔 I currently work in Observability for a major U.S. Airline ✈️
 - 🧑‍💻 I’m currently learning AI metal performance optimization 🤖
